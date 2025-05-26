@@ -1,3 +1,5 @@
 [
-  "Firefox.munki.recipe"
+  "Firefox.munki.recipe",
+  "iMazing.munki.recipe",
+  "ghostty.munki.recipe"
 ]

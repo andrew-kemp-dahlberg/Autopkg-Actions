@@ -1,2 +1,13 @@
 https://github.com/autopkg/recipes
 https://github.com/hjuutilainen/autopkg-virustotalanalyzer
+https://github.com/autopkg/grahampugh-recipes
+https://github.com/autopkg/datajar-recipes
+https://github.com/autopkg/hjuutilainen-recipes
+https://github.com/autopkg/homebysix-recipes
+https://github.com/autopkg/its-unibas-recipes
+https://github.com/autopkg/joshua-d-miller-recipes
+https://github.com/autopkg/n8felton-recipes.git
+https://github.com/autopkg/recipes
+https://github.com/autopkg/recipes
+https://github.com/autopkg/wardsparadox-recipes
+https://github.com/autopkg/novaksam-recipes
