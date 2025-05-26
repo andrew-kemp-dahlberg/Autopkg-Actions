@@ -1,6 +1,4 @@
 [
   "Firefox.munki.recipe",
-  "GoogleChrome.munki.recipe",
-  "iMazing.munki.recipe",
   "ghostty.munki.recipe"
 ]
