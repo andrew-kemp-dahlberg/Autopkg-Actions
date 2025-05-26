@@ -48,4 +48,8 @@ With YAML becoming more popular for AutoPkg recipes and overrides, this runner n
 
 ## Credits
 
-[autopkg_tools.py](https://github.com/facebook/IT-CPE/tree/master/legacy/autopkg_tools) from Facebook under a BSD 3-clause license with modifications from [tig](https://6fx.eu).
+Terraform Munki Repo module from Graham Gilbert
+
+The autopkg_tools.py script is a fork of Facebook's autopkg_tools.py
+
+The GitHub Actions workflows and this project in general are based heavily on the GitHub Actions AutoPkg setup from Gusto
