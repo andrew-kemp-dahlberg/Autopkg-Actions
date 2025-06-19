@@ -2,7 +2,7 @@ name: repoclean
 
 on:
   schedule:
-    - cron: 00 13 * * 3
+    # - cron: 00 13 * * 3
   workflow_dispatch:
 
 jobs:
